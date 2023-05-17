@@ -1409,6 +1409,9 @@ ul.pricing-table li.price {
 		text-align: center;
 		padding: 40px 0;
 	}
+	.mbs{
+		height : 450px;
+	}
 }
 /*Page Header End*/
 
